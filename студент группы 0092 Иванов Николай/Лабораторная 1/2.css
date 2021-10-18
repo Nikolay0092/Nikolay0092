@@ -1,0 +1,50 @@
+#top {
+    background: #FF0000; /* Цвет фона */
+    width: 20% ; /* Ширина меню */
+    float: left;  /* Состыковка со слоем контента по горизонтали */
+    border: solid 1px black; /* Параметры рамки  */
+    padding: 3px; /* Внутренние поля */
+}
+#top2 {
+    margin-left: 20.8%; /* Состыковка со слоем контента по горизонтали */
+    background: #FF7400; /* Цвет фона */
+    border: solid 1px black; /* Параметры рамки  */
+    padding: 3px; /* Внутренние поля */
+}
+#menu {
+    width: 20% ; /* Ширина меню */
+    background: #1047A9; /* Цвет фона */
+    border: solid 1px black; /* Параметры рамки */
+    float: left; /* Состыковка со слоем контента по горизонтали */
+    padding: 3px; /* Внутренние поля */
+    height: 95px;
+}
+#content {
+    background: #FFEF00; /* Цвет фона */
+    border: solid 1px black; /* Параметры рамки */
+    margin-left: 20.8%; /* Отступ слева с учетом ширины левой колонки */
+    padding: 3px; /* Внутренние поля */
+}
+#picture {
+    background: #CB0077; /* Цвет фона */
+    border: solid 1px black; /* Параметры рамки */
+    padding: 3px; /* Внутренние поля */
+    margin-bottom: 5px; /* Отступ снизу */
+    margin-left: 20px;
+    margin-right: 250px;
+    margin-top: 15px;
+}
+
+#bottom {
+    float: left; /* Состыковка со слоем контента по горизонтали */
+    width: 80% ; /* Ширина меню */
+    background: #00CC00; /* Цвет фона */
+    border: solid 1px black; /* Параметры рамки */
+    padding: 3px; /* Поля вокруг текста */
+}
+#bottom2 {
+    margin-left: 80.9%; /* Отступ слева с учетом ширины левой колонки */
+    background: #ED6B9F; /* Цвет фона */
+    border: solid 1px black; /* Параметры рамки */
+    padding: 3px; /* Поля вокруг текста */
+}
